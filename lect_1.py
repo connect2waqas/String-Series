@@ -16,6 +16,4 @@ print(name)
              string cannot be modified inplace.
 2 Method of Encoding in python:
                               => ASCII:-  128 (American standard code for information interchange) it can only encode 128 characters
-                              => Unicode:- 143,859 (sub super set of ASCII): it can encode 143,859 character (emojies all things).
-
-                              """
+                              => Unicode:- 143,859 (sub super set of ASCII): it can encode 143,859 character (emojies all things)."""
